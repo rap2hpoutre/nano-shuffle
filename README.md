@@ -1,6 +1,6 @@
 # nano-shuffle
 
-Micro shuffle array function, tiny implementation of [Durstenfeld shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle#The_modern_algorithm). Copy-pasta from https://stackoverflow.com/a/12646864/978690.
+Fast'n'tiny **shuffle array** function, see [Durstenfeld shuffle algorithm](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle#The_modern_algorithm). Copy-pasta from [stackoverflow](https://stackoverflow.com/a/12646864/978690).
 
 ## Install
 
