@@ -5,13 +5,13 @@ Fast'n'tiny **shuffle array** function, [Durstenfeld shuffle algorithm](https://
 ## Install
 
 ```
-npm install nano-shuffle
+npm install @rap2hpoutre/nano-shuffle
 ```
 
 ## Use
 
 ```javascript
-import shuffle from 'nano-shuffle';
+import shuffle from '@rap2hpoutre/nano-shuffle';
 
 const list = [1, 2, 3];
 shuffle(list);
