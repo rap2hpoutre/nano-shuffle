@@ -1,6 +1,6 @@
 {
   "name": "nano-shuffle",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Durstenfeld shuffle for ES6",
   "main": "index.js",
   "scripts": {
