@@ -1,5 +1,5 @@
 {
-  "name": "@rap2hpoutre/nano-shuffle",
+  "name": "n-shuffle",
   "version": "1.0.3",
   "description": "Durstenfeld shuffle for ES6",
   "main": "index.js",
