@@ -1,0 +1,23 @@
+{
+  "name": "nano-shuffle",
+  "version": "1.0.0",
+  "description": "Durstenfeld shuffle for ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rap2hpoutre/nano-shuffle.git"
+  },
+  "keywords": [
+    "shuffle",
+    "array"
+  ],
+  "author": "rap2hpoutre",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/rap2hpoutre/nano-shuffle/issues"
+  },
+  "homepage": "https://github.com/rap2hpoutre/nano-shuffle#readme"
+}
