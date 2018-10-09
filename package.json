@@ -1,6 +1,6 @@
 {
   "name": "n-shuffle",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Durstenfeld shuffle for ES6",
   "main": "index.js",
   "scripts": {
